@@ -1,9 +1,8 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Tamim+Iqbal+|+MERN+Stack+Developer;Building+Scalable+Web+Applications;Problem+Solver+and+Tech+Enthusiast" alt="Typing SVG" />
 </p>
-<p align="center">
-<img src="https://i.ibb.co/d452qvqd/Yellow-Black-Brush-Twitter-Header.png" alt="Banner" width="100%" />
-</p>
+
+<img src="https://i.ibb.co/3L2y7WK/Screenshot-2026-03-29-044813.png" alt="Banner" width="100%" />
 
 <p align="center">
 <a href="mailto:sa9079600@gmail.com">
@@ -22,7 +21,7 @@
 I am currently a student in the Science section (HSC 1st Year) at **BKSP Public School & College**. Alongside my studies, I am a passionate **MERN Stack Developer**. I love building scalable web applications and solving complex coding challenges using modern technologies.
 
 * 🚀 I am currently exploring **Next.js** and advanced frontend architectures.
-* 🔭 I’m working on a **Tourism Website**.
+* 🔭 I’m currently collaborating on a team project named **UrbanEstate**, a comprehensive Real Estate Marketplace platform.
 * 📚 I am a lifelong learner, constantly diving deeper into the **MERN stack** and **Next.js (App Router)**.
 * 🌱 My goal is to bridge the gap between academic studies and professional software engineering.
 
@@ -82,32 +81,13 @@ I am currently a student in the Science section (HSC 1st Year) at **BKSP Public 
 
 
 ## 📊 GitHub Stats
-
-
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Tamim%20Iqbal&fontSize=80&animation=fadeIn&fontColor=000000&fontAlignY=35&desc=MERN%20Stack%20Developer&descAlignY=65&descAlign=50" width="100%" alt="Tamim Iqbal" />
-
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;React+%26+Next.js+Expert;Creative+Problem+Solver" alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Tamim%20Iqbal&fontSize=80&animation=fadeIn&fontColor=000000&fontAlignY=35&desc=MERN%20Stack%20Developer&descAlignY=65&descAlign=50" width="100%" />
 </div>
 
-## 💬 Let's Connect
-
-<p align="left">
-📧 **Email:** <a href="mailto:sa9079600@gmail.com">sa9079600@gmail.com</a> <br>
-📘 **Facebook:** <a href="https://www.facebook.com/profile.php?id=100087409363784">https://facebook.com/itsfaisalhossen</a> <br>
-🌐 **Portfolio:** <a href="https://my-protfolio-sigma-weld.vercel.app">https://my-protfolio-sigma-weld.vercel.app</a>
-</p>
-
----
-**Phone:** 01977795336 |  **Location:** Dhaka, Bangladesh
-
-<p align="right">
-<img src="https://komarev.com/ghpvc/?username=your-github-username&label=Views&color=0e75b6&style=flat-square" alt="views" />
-</p>
-
 <div align="center">
+
+<img align="right" src="https://komarev.com/ghpvc/?username=your-github-username&label=Views&color=0e75b6&style=flat-square" alt="views" />
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" width="35" /> Support Me
 
@@ -117,8 +97,26 @@ I am currently a student in the Science section (HSC 1st Year) at **BKSP Public 
 
 <br />
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Firecracker.png" width="30" /> Thank You for Visiting My Profile
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Confetti%20Ball.png" width="40" /> Thank You for Visiting My Profile <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Confetti%20Ball.png" width="40" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=footer&text=LET'S%20BUILD%20THE%20FUTURE%20🚀&fontSize=25&fontColor=ffffff&animation=fadeIn" width="100%" />
+
+<br/>
+
+<div align="center">
+  <img align="left" src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="120" />
+  
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" width="85" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" width="85" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" width="85" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" width="85" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" width="85" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" width="85" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" width="85" />
+
+  <img align="right" src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="120" />
+</div>
+
+<br clear="both"/>
 
 </div>
