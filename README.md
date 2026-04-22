@@ -85,38 +85,3 @@ I am currently a student in the Science section (HSC 1st Year) at **BKSP Public 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Tamim%20Iqbal&fontSize=80&animation=fadeIn&fontColor=000000&fontAlignY=35&desc=MERN%20Stack%20Developer&descAlignY=65&descAlign=50" width="100%" />
 </div>
 
-<div align="center">
-
-<img align="right" src="https://komarev.com/ghpvc/?username=your-github-username&label=Views&color=0e75b6&style=flat-square" alt="views" />
-
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" width="35" /> Support Me
-
-<img src="https://user-images.githubusercontent.com/60511826/133005953-29a3a1f3-233f-42a1-a75d-6c17d740f951.gif" width="400px" />
-
-<p>If you like my work, consider giving a ⭐ to my repositories or connecting with me.</p>
-
-<br />
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Confetti%20Ball.png" width="40" /> Thank You for Visiting My Profile <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Confetti%20Ball.png" width="40" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=footer&text=LET'S%20BUILD%20THE%20FUTURE%20🚀&fontSize=25&fontColor=ffffff&animation=fadeIn" width="100%" />
-
-<br/>
-
-<div align="center">
-  <img align="left" src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="110" />
-  
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" width="85" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" width="85" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" width="85" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" width="85" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" width="85" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" width="85" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" width="85" />
-
-  <img align="right" src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="110" />
-</div>
-
-<br clear="both"/>
-
-</div>
